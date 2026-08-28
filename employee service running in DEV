@@ -1,0 +1,5 @@
+
+employee.message=employee service running in DEV
+spring.datasource.url=jdbc:mysql://localhost:3306/necdb
+spring.datasource.username=root
+spring.datasource.password=Olimathi???7
